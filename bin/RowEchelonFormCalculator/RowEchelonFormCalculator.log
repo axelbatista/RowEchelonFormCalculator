@@ -1,0 +1,7 @@
+﻿  RowEchelonFormCalculator.cpp
+C:\Users\Axeltron\source\repos\RowEchelonFormCalculator\RowEchelonFormCalculator\RowEchelonFormCalculator.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axeltron\source\repos\RowEchelonFormCalculator\RowEchelonFormCalculator\RowEchelonFormCalculator.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axeltron\source\repos\RowEchelonFormCalculator\RowEchelonFormCalculator\RowEchelonFormCalculator.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axeltron\source\repos\RowEchelonFormCalculator\RowEchelonFormCalculator\RowEchelonFormCalculator.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axeltron\source\repos\RowEchelonFormCalculator\RowEchelonFormCalculator\RowEchelonFormCalculator.cpp(68,34): warning C4018: '<': signed/unsigned mismatch
+  RowEchelonFormCalculator.vcxproj -> C:\Users\Axeltron\source\repos\RowEchelonFormCalculator\executable\RowEchelonFormCalculator.exe
